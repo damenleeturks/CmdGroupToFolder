@@ -1,3 +1,5 @@
+**Note: This does not work for Mavericks (10.8) up**
+
 CmdGroupToFolder
 ===============
 
